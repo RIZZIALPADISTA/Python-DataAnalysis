@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Andi", 
+        "usia": 20,
+        "kota": "Jakarta"
+    },
+    {
+        "nama": "Budi", 
+        "usia": 21,
+        "kota": "Bandung"
+    },
+    {
+        "nama": "Caca", 
+        "usia": 22,
+        "kota": "Sukabumi"
+    },
+    {
+        "nama": "Deni", 
+        "usia": 23,
+        "kota": "Bogor"
+    },
+    {
+        "nama": "Euis", 
+        "usia": 24,
+        "kota": "Jayapura"
+    }
+]
